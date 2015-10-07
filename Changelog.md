@@ -37,7 +37,6 @@
 * ROM
     * Gallery2: Added support for drm content + small fixes
     * jemalloc: update to version 4.0.0 (big thanks to arter97)
-    * BFQ/CFQ: merged all cm enhancements + fixes
     * Art/libcore: reverted some things that could cause potential issues/instability
     * IMS: merged all updates from codeaurora/cm
     * ART: fixed segmentation fault when xposed is installed
@@ -53,6 +52,16 @@
     * base: fix sporadic SystemUI crash when user long press home button
     * Fixed vibration when receiving a call
     * Updates/Fixes on init for various devices
+    * Bionic: reworked the entire branch
+        - Removed not used/old optimisations
+        - Implemeted pty.h 
+        - Lots of cleaning
+    * Layers Manager: updated to 4.3 final version
+    * libcore: more fixes/enhancements
+    * Updated sources to r24
+    * Build with JDK 8
+    * LatinIME: fixed gesture typing + other small fixes
+    * Reverted cm changes for BFQIO and cgroups
 
 #### 2015/09/17 (Stable v1)
 * Kernel
