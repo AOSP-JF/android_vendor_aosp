@@ -62,6 +62,11 @@
     * Build with JDK 8
     * LatinIME: fixed gesture typing + other small fixes
     * Reverted cm changes for BFQIO and cgroups
+    * Improved battery stats
+    * Icons: fixes on battery stats and bluetooth icons 
+    * Include security patch level in Settings
+    * Updated FFmpeg to 2.7.2 release
+    * AudioService: allow volume control on analog dock
 
 #### 2015/09/17 (Stable v1)
 * Kernel
