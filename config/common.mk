@@ -70,6 +70,9 @@ PRODUCT_PACKAGES += \
 ADDITIONAL_DEFAULT_PROPERTIES += \
     ro.adb.secure=0
     
+PRODUCT_COPY_FILES += \
+    vendor/aosp/prebuilt/common/bin/emmc_trim:system/bin/emmc_trim
+
 # For keyboard gesture typing
 PRODUCT_COPY_FILES += \
     vendor/aosp/prebuilt/common/lib/libjni_latinimegoogle.so:system/lib/libjni_latinimegoogle.so
