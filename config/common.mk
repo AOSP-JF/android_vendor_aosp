@@ -63,7 +63,6 @@ PRODUCT_PACKAGES += \
     SamsungServiceMode \
     Stk \
     STweaks \
-    Toolbox \
     WallpaperPicker
     
 # ADB authentication
