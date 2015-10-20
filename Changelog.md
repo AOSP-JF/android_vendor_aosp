@@ -30,9 +30,14 @@
 
 ### Changelog (short)
 
-#### Ongoing changes... (Stable v2)
+#### 2015/10/20 (Stable v2)
 * Kernel
     * Governors tuning/code cleaning
+    * General code update from 3.10 and fixes
+    * Fixed sporadic system freeze
+    * Updated and enabled zram (512 Mb on default profile)
+    * Changes and fixes on LMK
+    * Fixed MultiROM
 
 * ROM
     * Gallery2: Added support for drm content + small fixes
@@ -67,6 +72,12 @@
     * Include security patch level in Settings
     * Updated FFmpeg to 2.7.2 release
     * AudioService: allow volume control on analog dock
+    * Base: small fixes
+    * Enabled FFMPEG codecs
+    * Updated Layers Manager (v4.3.1) and SuperSu (2.51)
+    * Keymaster: small changes
+    * Fixed some warns during build
+    * New Bootanimation!! BIG BIG THANKS TO @AntaresOne and @ovaxivanov (XDA)
 
 #### 2015/09/17 (Stable v1)
 * Kernel
