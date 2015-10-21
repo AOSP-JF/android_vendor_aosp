@@ -130,3 +130,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Changelog
 PRODUCT_COPY_FILES += \
     vendor/aosp/Changelog.md:system/etc/Changelog.md
+
+# Proprietary prebuilts
+$(call inherit-product-if-exists, vendor/aosp/proprietary/prebuilts.mk)
