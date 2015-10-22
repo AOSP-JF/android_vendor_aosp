@@ -24,6 +24,7 @@
 
 [javelinanddart](https://github.com/javelinanddart) - Kernel Developer
 
+[FernBch](http://forum.xda-developers.com/member.php?u=2026117) - tester
 
 ### Changelog (full)
 [AOSP-JF](https://github.com/AOSP-JF) - Project GitHub
