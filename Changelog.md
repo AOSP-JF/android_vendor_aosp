@@ -30,6 +30,14 @@
 
 ### Changelog (short)
 
+#### Ongoing changes... (Stable v3)
+* ROM 
+    * init: small changes and optimisations
+    * Toolbox: updated ledify and switch to our proprietary version of Toolbox
+    * Contacts/ContactsCommon: fixes and enhancements
+    * SurfaceFlinger: restored high priority (Enhanced UI smoothness/responsiveness)
+    * Proprietary blobs: added missing libbtnv.so
+
 #### 2015/10/20 (Stable v2)
 * Kernel
     * Governors tuning/code cleaning
