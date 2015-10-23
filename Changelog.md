@@ -38,6 +38,10 @@
     * Contacts/ContactsCommon: fixes and enhancements
     * SurfaceFlinger: restored high priority (Enhanced UI smoothness/responsiveness)
     * Proprietary blobs: added missing libbtnv.so
+    * UNTESTED: Added ANT support
+    * TEST: Restored BFQIO/cgroups changes, this time should work as expected
+    * Added eMMC trim at startup
+    * Enhanced brightness response when light change, much more faster than before
 
 #### 2015/10/20 (Stable v2)
 * Kernel
