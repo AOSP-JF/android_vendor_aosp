@@ -32,6 +32,10 @@
 ### Changelog (short)
 
 #### Ongoing changes... (Stable v3)
+* Kernel
+    * Small optimisations
+    * Ported gpu drivers from flo
+
 * ROM 
     * init: small changes and optimisations
     * Toolbox: updated ledify and switch to our proprietary version of Toolbox
