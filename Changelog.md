@@ -34,7 +34,7 @@
 #### Ongoing changes... (Stable v3)
 * Kernel
     * Small optimisations
-    * Ported gpu drivers from flo
+    * General code update
 
 * ROM 
     * init: small changes and optimisations
@@ -42,10 +42,15 @@
     * Contacts/ContactsCommon: fixes and enhancements
     * SurfaceFlinger: restored high priority (Enhanced UI smoothness/responsiveness)
     * Proprietary blobs: added missing libbtnv.so
-    * UNTESTED: Added ANT support
     * TEST: Restored BFQIO/cgroups changes, this time should work as expected
     * Added eMMC trim at startup
     * Enhanced brightness response when light change, much more faster than before
+    * Updated sources to r29
+    * Removed CPU Boost and all related changes made by cm/caf. Everything is handled by Alucard kernel, we do not need that stuffs
+    * jflte: updates and fixes
+    * Ramdisk: cleaned unused stuffs
+    * General code updates/fixes from cm
+    * Updated SuperSu, LayersManager and Toolbox
 
 #### 2015/10/20 (Stable v2)
 * Kernel
