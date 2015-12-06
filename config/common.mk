@@ -21,7 +21,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
     net.ppp0.dns2=8.8.4.4 \
     net.dns1=8.8.8.8 \
     net.dns2=8.8.4.4 \
-    ro.layers.noIcon=noIcon
 
 PRODUCT_PACKAGE_OVERLAYS += \
     vendor/aosp/overlay/common \
@@ -58,7 +57,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     LatinIME \
     Launcher3 \
-    LayersManager4.0 \
+    LayersManager \
     OTAUpdates \
     SamsungServiceMode \
     Stk \
