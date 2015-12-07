@@ -45,7 +45,7 @@
     * TEST: Restored BFQIO/cgroups changes, this time should work as expected
     * Added eMMC trim at startup
     * Enhanced brightness response when light change, much more faster than before
-    * Updated sources to r29
+    * Updated sources to r30
     * Removed CPU Boost and all related changes made by cm/caf. Everything is handled by Alucard kernel, we do not need that stuffs
     * jflte: updates and fixes
     * Ramdisk: cleaned unused stuffs
