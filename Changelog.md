@@ -31,7 +31,17 @@
 
 ### Changelog (short)
 
-#### Ongoing changes... (Stable v3)
+#### Ongoing changes... (Stable v4)
+* Kernel
+    * Fixed button vibration when screeen is off
+
+* ROM
+    * Bluetooth: fixed bt turn on for semcosh
+    * A2dp: Fixed a mismerge
+    * av/core: small fixes
+    * AOSP Settings: completely reworked
+
+#### 2015/12/07 (Stable v3)
 * Kernel
     * Small optimisations
     * General code update
