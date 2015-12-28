@@ -34,6 +34,7 @@
 #### Ongoing changes... (Stable v4)
 * Kernel
     * Fixed button vibration when screeen is off
+    * Fixed music sometimes stuttering when user turns off the screen
 
 * ROM
     * Bluetooth: fixed bt turn on for semcosh
