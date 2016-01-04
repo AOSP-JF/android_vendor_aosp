@@ -31,16 +31,19 @@
 
 ### Changelog (short)
 
-#### Ongoing changes... (Stable v4)
+#### 2016/01/04 (Stable v4)
 * Kernel
     * Fixed button vibration when screeen is off
     * Fixed music sometimes stuttering when user turns off the screen
+    * Fixed freeze when booting connected to an AC/USB cable
 
 * ROM
     * Bluetooth: fixed bt turn on for semcosh
     * A2dp: Fixed a mismerge
     * av/core: small fixes
     * AOSP Settings: completely reworked
+    * Updater-script: fixed permissions/selinux context for ril blobs
+    * General small fixes
 
 #### 2015/12/07 (Stable v3)
 * Kernel
