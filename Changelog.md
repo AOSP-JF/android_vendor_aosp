@@ -31,6 +31,11 @@
 
 ### Changelog (short)
 
+#### Ongoing changes... (Stable v5)
+* ROM
+    * Update sources to Android 5.1.1 release 33
+    * Updated LayersManager t v4.4.1
+
 #### 2016/01/04 (Stable v4)
 * Kernel
     * Fixed button vibration when screeen is off
