@@ -32,9 +32,14 @@
 ### Changelog (short)
 
 #### Ongoing changes... (Stable v5)
+* Kernel
+    * General code update
+    * Updated Toolchains (5.3.0)
+
 * ROM
     * Update sources to Android 5.1.1 release 33
     * Updated LayersManager t v4.4.1
+    * Fixed Bluetooth sometimes not turning on after a flash
 
 #### 2016/01/04 (Stable v4)
 * Kernel
