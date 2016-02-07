@@ -31,15 +31,22 @@
 
 ### Changelog (short)
 
-#### Ongoing changes... (Stable v5)
+#### Ongoing changes... (Stable v6)
+
+#### 2016/02/07 (Stable v5)
 * Kernel
     * General code update
     * Updated Toolchains (5.3.0)
+    * Netd/wifi: updates and fixes
+    * Added support for SGH-S970G and SM-S975L
+    * IR: fixed phone hotboot, crash, reboot using IR-Blaster
 
 * ROM
-    * Update sources to Android 5.1.1 release 33
+    * Update sources to Android 5.1.1 release 34 (Google february security update)
     * Updated LayersManager t v4.4.1
     * Fixed Bluetooth sometimes not turning on after a flash
+    * Added support for SGH-S970G and SM-S975L
+    * Audio: add back LPA and set awesome player as default
 
 #### 2016/01/04 (Stable v4)
 * Kernel
