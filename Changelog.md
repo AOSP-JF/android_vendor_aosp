@@ -33,6 +33,16 @@
 
 #### Ongoing changes... (Stable v6)
 
+* Kernel
+    * General code update
+    * Ramdisk: cleaning and some small opimisation
+    * FS / BLOCK / PROC / CPUFREQ / eCryptfs / FUSE / FS Drivers : Sync with 3.10 tree
+* ROM
+    * Small APNs updates
+    * Camera: added QCOM features + updated camcoder profiles
+    * AV: synced code with cm-12.1/CAF (LA.BF64.1.2.1_rb2.6 branch)
+    * Camera: Switch to SnapdragonCamera from CAF + updates/fixes from cm-13.0
+
 #### 2016/02/07 (Stable v5)
 * Kernel
     * General code update
