@@ -42,6 +42,10 @@
     * Camera: added QCOM features + updated camcoder profiles
     * AV: synced code with cm-12.1/CAF (LA.BF64.1.2.1_rb2.6 branch)
     * Camera: Switch to SnapdragonCamera from CAF + updates/fixes from cm-13.0
+    * Core: merge + sync missing code from CAF/cm
+    * Native: Small fixes + added some missing stuffs
+    * Base: fixes + ported some missing code from CAF/cm
+    * Audio: various enhancements + fixed WhatsApp audio messages recording
 
 #### 2016/02/07 (Stable v5)
 * Kernel
