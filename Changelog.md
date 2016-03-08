@@ -31,7 +31,7 @@
 
 ### Changelog (short)
 
-#### Ongoing changes... (Stable v6)
+#### 2016/03/08 (Stable v6)
 
 * Kernel
     * General code update
@@ -46,6 +46,9 @@
     * Native: Small fixes + added some missing stuffs
     * Base: fixes + ported some missing code from CAF/cm
     * Audio: various enhancements + fixed WhatsApp audio messages recording
+    * Bluedroid: fixed discovery status handling
+    * Update sources to Android 5.1.1 release 35
+    * Fixed logcat (Must be enabled from STweaks)
 
 #### 2016/02/07 (Stable v5)
 * Kernel
