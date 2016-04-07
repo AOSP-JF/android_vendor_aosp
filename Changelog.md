@@ -31,8 +31,19 @@
 
 ### Changelog (short)
 
-#### 2016/03/08 (Stable v6)
+#### (Stable v7)
+* Kernel
+    * General code update + fixes
+    * More code ported from 3.10
+    * Updated Toolchains (5.3.0) and Busybox (from official Master branch)
+* ROM
+    * Update sources to Android 5.1.1 release 37
+    * Update SuperSU to v2.71
+    * Update LayersManager to v4.4.4
+    * SnapdragonCamera: Small updates/fixes
+    * external/jpeg: use qcom-optimised repo from cm
 
+#### 2016/03/08 (Stable v6)
 * Kernel
     * General code update
     * Ramdisk: cleaning and some small opimisation
