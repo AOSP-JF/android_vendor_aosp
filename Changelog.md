@@ -31,7 +31,7 @@
 
 ### Changelog (short)
 
-#### (Stable v7)
+#### 2016/04/10 (Stable v7)
 * Kernel
     * General code update + fixes
     * More code ported from 3.10
@@ -42,6 +42,7 @@
     * Update LayersManager to v4.4.4
     * SnapdragonCamera: Small updates/fixes
     * external/jpeg: use qcom-optimised repo from cm
+    * Switch to Linaro 4.9.4 for rom compiling
 
 #### 2016/03/08 (Stable v6)
 * Kernel
